@@ -21,8 +21,7 @@
 </table>
 
 > [!NOTE]
-> I've been working at a company for the last year.
-> But I still try to post my own non-work related projects here.
+> 😺 Welcome to my day! 🌟 Stay tuned for foxy updates on my latest commits and projects! 🚀
 
 <!--
 **Animalfox/Animalfox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
