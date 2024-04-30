@@ -21,7 +21,7 @@
 </table>
 
 > [!NOTE]
-> All commits are under the supervision of the sly fox!
+> All commits are under the supervision of the white fox!
 
 <!--
 **Animalfox/Animalfox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
