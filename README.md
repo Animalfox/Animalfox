@@ -21,7 +21,7 @@
 </table>
 
 > [!NOTE]
-> 😺 Welcome to my page! 🌟 Stay tuned for foxy updates on my latest commits and projects! 🚀
+> All commits are under the supervision of the sly fox!
 
 <!--
 **Animalfox/Animalfox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
