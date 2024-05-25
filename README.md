@@ -21,7 +21,7 @@
 </table>
 
 > [!NOTE]
-> I also use cats ~
+> I also use cat ~
 
 <!--
 **Animalfox/Animalfox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
