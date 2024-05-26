@@ -14,7 +14,7 @@
       <picture>
        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=animalfox&layout=compact&theme=transparent&title_color=59c9ff&hide_border=true">
        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=animalfox&layout=compact&title_color=59c9ff&hide_border=true">
-       <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=animalfox&layout=compact&title_color=59c9ff&hide_border=true">
+       <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=animalfox&layout=compact&title_color=59c9ff&hide_border=true&langs_count=10">
       </picture>
     </td>
   </tr>
