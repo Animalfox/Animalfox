@@ -25,7 +25,7 @@
 
 <h3>📫 Ask me about anything</h3>
 <div width="55%">
-  <b>Telegram</b>&nbsp;&nbsp; <a href="https://t.me/animalfox">Animalfox</a><br/>
+  <b>Telegram</b>&nbsp;&nbsp; <a href="https://t.me/animalfox" target="_blank">Animalfox</a><br/>
   <b>E-Mail</b>&ensp;&emsp;&nbsp; <a href="mailto:a72e@outlook.com">a72e@outlook.com</a><br/>
 </div>
 
