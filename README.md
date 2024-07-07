@@ -1,4 +1,4 @@
-### Animalfox's Dashboard
+### Animalfox's Dashboard | Frontend Developer
 🐈 A few details about me
 
 <table>
