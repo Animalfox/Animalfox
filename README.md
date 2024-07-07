@@ -5,9 +5,9 @@
   <tr>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=animalfox&theme=transparent&title_color=59c9ff&hide_border=true">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=animalfox&title_color=59c9ff&hide_border=true">
-        <img alt="Animalfox's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=animalfox&title_color=59c9ff&hide_border=true">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=animalfox&theme=transparent&title_color=59c9ff&hide_border=true&custom_title=My%20GitHub%20Stats">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=animalfox&title_color=59c9ff&hide_border=true&custom_title=My%20GitHub%20Stats">
+        <img alt="Animalfox's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=animalfox&title_color=59c9ff&hide_border=true&custom_title=My%20GitHub%20Stats">
       </picture>
     </td>
     <td>
