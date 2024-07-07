@@ -1,20 +1,30 @@
-### Animalfox's Dashboard | Frontend Developer
-🐈 A few details about me
+<div size="108px">
+  <img align="left" alt="Animalfox's GitHub Stats" src="https://avatars.githubusercontent.com/u/52299397?s=100">
+</div>
+<div align="left">
+  <div size="32"><b>Animalfox</b> | Frontend Developer</div>
+  <span>character: &nbsp;white fox</span><br/>
+  <span>gender: &ensp;&ensp; male</span><br/>
+  <span>social: &nbsp;&ensp;&emsp; <a href="https://animalfox.t.me" target="_blank">telegram</a>&nbsp;, <a href="https://www.codewars.com/users/Animalfox" target="_blank">codewars</a></span><br/>
+  <br/>
+</div>
+<!--<p><br/><a href="https://www.codewars.com/users/Animalfox" target="_blank"><img alt="Codewars Profile" src="https://www.codewars.com/users/Animalfox/badges/large?logo=false"></a></p>-->
 
+<p>🐈 A few details about me</p>
 <table>
   <tr>
     <td>
       <picture>
-       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=animalfox&theme=transparent&title_color=59c9ff&hide_border=true">
-       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=animalfox&title_color=59c9ff&hide_border=true">
-       <img alt="Animalfox's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=animalfox&title_color=59c9ff&hide_border=true">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=animalfox&theme=transparent&title_color=59c9ff&hide_border=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=animalfox&title_color=59c9ff&hide_border=true">
+        <img alt="Animalfox's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=animalfox&title_color=59c9ff&hide_border=true">
       </picture>
     </td>
     <td>
       <picture>
-       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=animalfox&layout=compact&theme=transparent&title_color=59c9ff&hide_border=true&langs_count=8">
-       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=animalfox&layout=compact&title_color=59c9ff&hide_border=true&langs_count=8">
-       <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=animalfox&layout=compact&title_color=59c9ff&hide_border=true&langs_count=8">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=animalfox&layout=compact&theme=transparent&title_color=59c9ff&hide_border=true&langs_count=8">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=animalfox&layout=compact&title_color=59c9ff&hide_border=true&langs_count=8">
+        <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=animalfox&layout=compact&title_color=59c9ff&hide_border=true&langs_count=8">
       </picture>
     </td>
   </tr>
