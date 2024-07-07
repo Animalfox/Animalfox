@@ -2,8 +2,8 @@
   <img align="left" alt="Animalfox's GitHub Stats" src="https://avatars.githubusercontent.com/u/52299397?s=100">
 </div>
 <div align="left">
-  <div size="32"><b>Animalfox</b> | Frontend Developer</div>
-  <span>character: &nbsp;white fox</span><br/>
+  <div size="32"><b>Animalfox</b></div>
+  <span>role: &nbsp;Frontend Developer</span><br/>
   <span>gender: &ensp;&ensp; male</span><br/>
   <span>social: &nbsp;&ensp;&emsp; <a href="https://animalfox.t.me" target="_blank">telegram</a>&nbsp;, <a href="https://www.codewars.com/users/Animalfox" target="_blank">codewars</a></span><br/>
   <br/>
