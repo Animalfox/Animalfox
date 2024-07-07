@@ -21,7 +21,7 @@
 </table>
 
 > [!NOTE]
-> Thank you all so much for your support! ~
+> Available for hiring now ~
 
 <!--
 **Animalfox/Animalfox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
