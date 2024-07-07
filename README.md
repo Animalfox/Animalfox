@@ -1,6 +1,10 @@
-### Animalfox's Dashboard
-
-<p>🐈 A few details about me</p>
+## Animalfox's Dashboard
+<h3>🐈 Personal info</h3>
+<div width="55%">
+  <b>Role</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Frontend Developer<br/>
+  <b>Location</b>&nbsp;&nbsp; Russia, Smolensk
+</div>
+<h3>🧪 GitHub Stats</h3>
 <table>
   <tr>
     <td>
@@ -20,8 +24,15 @@
   </tr>
 </table>
 
-> [!NOTE]
-> Available for hiring ~
+<h3>🔭 I’m currently working on</h3>
+<p>At the moment, I'm taking a deep dive into clean architecture principles, refining my understanding and application of them in various projects.</p>
+<p>While my primary focus has been on Frontend development, I am exploring broader horizons and considering moving into more complex software architecture roles, driven by a passion for clean and maintainable code.</p>
+
+<h3>📫 Ask me about anything</h3>
+<div width="55%">
+  <b>Telegram</b>&nbsp;&nbsp; <a href="https://t.me/animalfox">Animalfox</a><br/>
+  <b>E-Mail</b>&ensp;&emsp;&nbsp; <a href="mailto:a72e@outlook.com">a72e@outlook.com</a><br/>
+</div>
 
 <!--
 **Animalfox/Animalfox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
