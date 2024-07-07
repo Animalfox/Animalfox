@@ -1,9 +1,4 @@
 ## Animalfox's Dashboard
-<h3>🐈 Personal info</h3>
-<div width="55%">
-  <b>Role</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Frontend Developer<br/>
-  <b>Location</b>&nbsp;&nbsp; Russia, Smolensk
-</div>
 <h3>🧪 GitHub Stats</h3>
 <table>
   <tr>
