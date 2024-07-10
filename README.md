@@ -1,4 +1,4 @@
-## Animalfox's Dashboard
+## Animalfox's Overview
 <h3>🧪 GitHub Stats</h3>
 <table>
   <tr>
